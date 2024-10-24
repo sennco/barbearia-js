@@ -292,6 +292,11 @@ i {
   color: #FFF;
 }
 
+.titulo_footer{
+  text-align: center;
+  font-size: 12px;
+  }
+
 .btn-whatsapp {
   position: fixed;
   bottom: 14px;
